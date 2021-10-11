@@ -1,0 +1,16 @@
+C:\Users\Админ\source\repos\2isp20\Ragimov\corteji\bin\Debug\net5.0\corteji.exe
+C:\Users\Админ\source\repos\2isp20\Ragimov\corteji\bin\Debug\net5.0\corteji.deps.json
+C:\Users\Админ\source\repos\2isp20\Ragimov\corteji\bin\Debug\net5.0\corteji.runtimeconfig.json
+C:\Users\Админ\source\repos\2isp20\Ragimov\corteji\bin\Debug\net5.0\corteji.runtimeconfig.dev.json
+C:\Users\Админ\source\repos\2isp20\Ragimov\corteji\bin\Debug\net5.0\corteji.dll
+C:\Users\Админ\source\repos\2isp20\Ragimov\corteji\bin\Debug\net5.0\ref\corteji.dll
+C:\Users\Админ\source\repos\2isp20\Ragimov\corteji\bin\Debug\net5.0\corteji.pdb
+C:\Users\Админ\source\repos\2isp20\Ragimov\corteji\obj\Debug\net5.0\corteji.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\2isp20\Ragimov\corteji\obj\Debug\net5.0\corteji.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\source\repos\2isp20\Ragimov\corteji\obj\Debug\net5.0\corteji.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\2isp20\Ragimov\corteji\obj\Debug\net5.0\corteji.AssemblyInfo.cs
+C:\Users\Админ\source\repos\2isp20\Ragimov\corteji\obj\Debug\net5.0\corteji.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\2isp20\Ragimov\corteji\obj\Debug\net5.0\corteji.dll
+C:\Users\Админ\source\repos\2isp20\Ragimov\corteji\obj\Debug\net5.0\ref\corteji.dll
+C:\Users\Админ\source\repos\2isp20\Ragimov\corteji\obj\Debug\net5.0\corteji.pdb
+C:\Users\Админ\source\repos\2isp20\Ragimov\corteji\obj\Debug\net5.0\corteji.genruntimeconfig.cache
